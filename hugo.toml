@@ -1,4 +1,7 @@
-baseURL = 'https://mofaxiaopu.com/'
-locale = 'zh-cn'
-title = '魔法小铺'
-theme = 'PaperMod'
+baseURL = "https://mofaxiaopu.com/"
+languageCode = "zh-cn"
+title = "魔法小铺"
+theme = "PaperMod"
+enableRobotsTXT = true
+[outputs]
+home = ["HTML", "RSS", "JSON"]
