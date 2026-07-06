@@ -22,7 +22,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.130.0
+      HUGO_VERSION: 0.146.0
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -37,6 +37,7 @@ jobs:
           hugo version
       - name: Build site
         run: |
+          hugo mod tidy
           hugo --minify
           touch public/.nojekyll
           echo "mofaxiaopu.com" > public/CNAME
