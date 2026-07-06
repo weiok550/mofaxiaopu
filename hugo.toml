@@ -3,5 +3,10 @@ languageCode = "zh-cn"
 title = "魔法小铺"
 theme = "PaperMod"
 enableRobotsTXT = true
-[outputs]
+# 关闭相对路径，全部生成根路径 /xxx
+relativeURLs = false
+canonifyURLs = false
+[
+outputs
+]
 home = ["HTML", "RSS", "JSON"]
