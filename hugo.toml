@@ -6,7 +6,11 @@ enableRobotsTXT = true
 # 关闭相对路径，全部生成根路径 /xxx
 relativeURLs = false
 canonifyURLs = false
-[
-outputs
-]
+
+[outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
