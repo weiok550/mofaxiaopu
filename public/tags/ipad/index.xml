@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ipad on 魔法小铺</title>
-    <link>http://localhost:1313/tags/ipad/</link>
+    <link>https://mofaxiaopu.com/tags/ipad/</link>
     <description>Recent content in Ipad on 魔法小铺</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 13 Jul 2026 00:00:48 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mofaxiaopu.com/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>苹果设备怎么看 Netflix、Disney&#43;、Apple TV&#43;、Prime Video、HBO Max？Shadowrocket 小火箭教程</title>
-      <link>http://localhost:1313/posts/iphone-shadowrocket-netflix-appletv-primevideo-disney-hbomax/</link>
+      <link>https://mofaxiaopu.com/posts/iphone-shadowrocket-netflix-appletv-primevideo-disney-hbomax/</link>
       <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
-      <guid>http://localhost:1313/posts/iphone-shadowrocket-netflix-appletv-primevideo-disney-hbomax/</guid>
+      <guid>https://mofaxiaopu.com/posts/iphone-shadowrocket-netflix-appletv-primevideo-disney-hbomax/</guid>
       <description>苹果设备怎么看 Netflix、Disney&#43;、Apple TV&#43;、Prime Video、HBO Max？本文以 iPhone 为例介绍苹果设备如何使用 Shadowrocket 小火箭配置代理节点、购买机场流量和流媒体账号的完整教程。其他苹果设备(（iPad，Mac,iMac,Mac mini, Apple Tv电视盒子， Vision Pro）)基本一样，可做参考。</description>
     </item>
   </channel>
