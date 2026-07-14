@@ -1,0 +1,178 @@
+:root {
+  --main-width: calc(var(--nav-width) + var(--gap) * 2);
+}
+.header-nav {
+  padding: 0;
+}
+
+
+.md-content img{
+  width:50%;
+  text-align: center;
+}
+
+.home-hero {
+  margin: 18px 0 34px;
+  padding: 34px;
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  background: linear-gradient(135deg, rgba(73, 118, 255, 0.12), rgba(255, 255, 255, 0));
+}
+
+.home-eyebrow {
+  margin: 0 0 10px;
+  color: var(--secondary);
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.home-hero h1 {
+  margin: 0 0 14px;
+  font-size: clamp(2rem, 6vw, 3.4rem);
+  line-height: 1.1;
+}
+
+.home-hero-desc {
+  margin: 0;
+  color: var(--secondary);
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.home-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.home-hero-actions a,
+.home-card-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: var(--primary);
+  color: var(--theme);
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.home-hero-actions a + a {
+  border: 1px solid var(--border);
+  background: var(--entry);
+  color: var(--primary);
+}
+
+.home-section-head {
+  margin: 0 0 18px;
+}
+
+.home-section-head h2 {
+  margin: 0 0 10px;
+  font-size: 28px;
+}
+
+.home-section-head p:last-child {
+  max-width: 760px;
+  margin: 0;
+  color: var(--secondary);
+  line-height: 1.75;
+}
+
+.home-platforms,
+.home-steps {
+  margin: 34px 0;
+}
+
+.home-card-grid,
+.home-step-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.home-guide-card,
+.home-step-grid > div {
+  position: relative;
+  padding: 24px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: var(--entry);
+}
+
+.home-guide-card h3 {
+  margin: 12px 0;
+  font-size: 24px;
+  line-height: 1.35;
+}
+
+.home-guide-card h3 a {
+  text-decoration: none;
+}
+
+.home-guide-card p {
+  margin: 0;
+  color: var(--secondary);
+  line-height: 1.75;
+}
+
+.home-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+  color: var(--secondary);
+  font-size: 13px;
+}
+
+.home-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 18px 0;
+}
+
+.home-card-tags span {
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: var(--code-bg);
+  color: var(--secondary);
+  font-size: 12px;
+}
+
+.home-step-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.home-step-grid strong {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 17px;
+}
+
+.home-step-grid p {
+  margin: 0;
+  color: var(--secondary);
+  line-height: 1.7;
+}
+
+@media (max-width: 768px) {
+  .home-hero {
+    padding: 24px;
+    border-radius: 20px;
+  }
+
+  .home-card-grid,
+  .home-step-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .home-guide-card h3 {
+    font-size: 21px;
+  }
+}

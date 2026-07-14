@@ -1,0 +1,71 @@
+{{- define "main" }}
+
+{{- $iphone := site.GetPage "/posts/iphone-shadowrocket-netflix-appletv-primevideo-disney-hbomax" }}
+{{- $android := site.GetPage "/posts/android-clash_meta" }}
+{{- $featured := slice }}
+{{- with $iphone }}{{ $featured = $featured | append . }}{{ end }}
+{{- with $android }}{{ $featured = $featured | append . }}{{ end }}
+
+<section class="home-hero">
+  <p class="home-eyebrow">流媒体观看教程</p>
+  <p class="home-hero-desc">
+    专注分享 Netflix、Disney+、Apple TV+、Prime Video、HBO Max 等海外流媒体观看教程，覆盖苹果设备与安卓设备的网络工具配置、机场流量和账号选择建议。
+  </p>
+  <div class="home-hero-actions">
+    <a href="#featured-guides">查看教程</a>
+    <a href="/categories/流媒体教程/">流媒体教程</a>
+  </div>
+</section>
+
+<section class="home-platforms" id="featured-guides" aria-label="推荐教程">
+  <div class="home-section-head">
+    <p class="home-eyebrow">推荐阅读</p>
+    <h2>按设备选择教程</h2>
+  </div>
+
+  <div class="home-card-grid">
+    {{- range $featured }}
+    <article class="home-guide-card">
+      <div class="home-card-meta">
+        {{- if in .File.Path "android" }}
+        <span>Android / 安卓</span>
+        {{- else }}
+        <span>iPhone / iPad / Apple TV</span>
+        {{- end }}
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      </div>
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p>{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary | plainify }}{{ end }}</p>
+      <div class="home-card-tags">
+        {{- range first 4 .Params.tags }}
+        <span>{{ . }}</span>
+        {{- end }}
+      </div>
+      <a class="home-card-link" href="{{ .RelPermalink }}" aria-label="阅读全文：{{ .Title }}">阅读全文</a>
+    </article>
+    {{- end }}
+  </div>
+</section>
+
+<section class="home-steps" aria-label="使用流程">
+  <div class="home-section-head">
+    <p class="home-eyebrow">使用流程</p>
+    <h2>从准备工具到开始观看</h2>
+  </div>
+  <div class="home-step-grid">
+    <div>
+      <strong>1. 选择设备</strong>
+      <p>苹果设备看 Shadowrocket 教程，安卓设备看 Clash Meta for Android 教程。</p>
+    </div>
+    <div>
+      <strong>2. 配置订阅</strong>
+      <p>购买合适的机场流量，把订阅链接导入对应代理工具。</p>
+    </div>
+    <div>
+      <strong>3. 登录账号</strong>
+      <p>网络连通后，登录 Netflix、Disney+、Apple TV+ 等流媒体账号观看。</p>
+    </div>
+  </div>
+</section>
+
+{{- end }}
