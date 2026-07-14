@@ -1,7 +1,11 @@
 :root {
   --main-width: calc(var(--nav-width) + var(--gap) * 2);
 }
+.header{
+  padding:var(--gap);
+}
 .header-nav {
+  margin: auto;
   padding: 0;
 }
 
