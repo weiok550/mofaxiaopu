@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TAG on 魔法小铺</title>
-    <link>http://localhost:1313/tags/tag/</link>
-    <description>Recent content in TAG on 魔法小铺</description>
+    <title>Tag on 魔法小铺</title>
+    <link>https://mofaxiaopu.com/tags/tag/</link>
+    <description>Recent content in Tag on 魔法小铺</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 19 Jul 2026 10:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mofaxiaopu.com/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>机场服务推荐</title>
-      <link>http://localhost:1313/posts/proxy-provider-recommendations/</link>
+      <link>https://mofaxiaopu.com/posts/proxy-provider-recommendations/</link>
       <pubDate>Sun, 19 Jul 2026 10:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/proxy-provider-recommendations/</guid>
+      <guid>https://mofaxiaopu.com/posts/proxy-provider-recommendations/</guid>
       <description>整理一些实际使用和筛选后体验还不错的机场服务，包括 TAG、vpn07、KTM、飞兔等。</description>
     </item>
     <item>
       <title>tag机场流量购买教程：注册、购买套餐和获取订阅链接</title>
-      <link>http://localhost:1313/posts/tagss/</link>
+      <link>https://mofaxiaopu.com/posts/tagss/</link>
       <pubDate>Sun, 12 Jul 2026 15:18:18 +0800</pubDate>
-      <guid>http://localhost:1313/posts/tagss/</guid>
+      <guid>https://mofaxiaopu.com/posts/tagss/</guid>
       <description>tag机场流量购买教程，适合新手了解如何注册tag账号、购买代理流量套餐，并获取订阅链接配置到 Shadowrocket、小火箭、Clash Meta、Stash 等代理工具中。</description>
     </item>
   </channel>

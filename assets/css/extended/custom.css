@@ -15,6 +15,13 @@
   text-align: center;
 }
 
+.md-content img.windows-guide-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 24px auto;
+}
+
 .home-hero {
   margin: 18px 0 34px;
   padding: 34px;

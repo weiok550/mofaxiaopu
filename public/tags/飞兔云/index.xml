@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>飞兔云 on 魔法小铺</title>
-    <link>http://localhost:1313/tags/%E9%A3%9E%E5%85%94%E4%BA%91/</link>
+    <link>https://mofaxiaopu.com/tags/%E9%A3%9E%E5%85%94%E4%BA%91/</link>
     <description>Recent content in 飞兔云 on 魔法小铺</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 19 Jul 2026 10:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%A3%9E%E5%85%94%E4%BA%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mofaxiaopu.com/tags/%E9%A3%9E%E5%85%94%E4%BA%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>机场服务推荐</title>
-      <link>http://localhost:1313/posts/proxy-provider-recommendations/</link>
+      <link>https://mofaxiaopu.com/posts/proxy-provider-recommendations/</link>
       <pubDate>Sun, 19 Jul 2026 10:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/proxy-provider-recommendations/</guid>
+      <guid>https://mofaxiaopu.com/posts/proxy-provider-recommendations/</guid>
       <description>整理一些实际使用和筛选后体验还不错的机场服务，包括 TAG、vpn07、KTM、飞兔等。</description>
     </item>
     <item>
       <title>飞兔云 机场流量购买教程：注册、购买套餐和获取订阅链接</title>
-      <link>http://localhost:1313/posts/feitu/</link>
+      <link>https://mofaxiaopu.com/posts/feitu/</link>
       <pubDate>Sun, 12 Jul 2026 15:18:18 +0800</pubDate>
-      <guid>http://localhost:1313/posts/feitu/</guid>
+      <guid>https://mofaxiaopu.com/posts/feitu/</guid>
       <description>飞兔云 机场流量购买教程，适合新手了解如何注册 飞兔云 账号、购买代理流量套餐，并获取订阅链接配置到 Shadowrocket、小火箭、Clash Meta、Stash 等代理工具中。</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>安卓手机 on 魔法小铺</title>
-    <link>http://localhost:1313/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</link>
+    <link>https://mofaxiaopu.com/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</link>
     <description>Recent content in 安卓手机 on 魔法小铺</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 12 Jul 2026 18:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mofaxiaopu.com/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>安卓手机和平板怎么看 Netflix、Disney&#43;、Apple TV&#43;、Prime Video、HBO Max？Clash Meta for Android 教程</title>
-      <link>http://localhost:1313/posts/android-clash_meta/</link>
+      <link>https://mofaxiaopu.com/posts/android-clash_meta/</link>
       <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/android-clash_meta/</guid>
+      <guid>https://mofaxiaopu.com/posts/android-clash_meta/</guid>
       <description>安卓手机和平板怎么看 Netflix、Disney&#43;、Apple TV&#43;、Prime Video、HBO Max？本文介绍 Android 使用 Clash Meta for Android 配置机场订阅、选择节点、切换代理模式和购买流媒体账号的完整教程。</description>
     </item>
   </channel>
