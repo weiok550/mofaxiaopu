@@ -6,34 +6,118 @@
     <description>Recent content in Tags on 魔法小铺</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Jul 2026 00:00:48 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 10:30:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Tv</title>
-      <link>http://localhost:1313/tags/apple-tv/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
-      <guid>http://localhost:1313/tags/apple-tv/</guid>
+      <title>KTM</title>
+      <link>http://localhost:1313/tags/ktm/</link>
+      <pubDate>Sun, 19 Jul 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/ktm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TAG</title>
+      <link>http://localhost:1313/tags/tag/</link>
+      <pubDate>Sun, 19 Jul 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/tag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vpn07</title>
+      <link>http://localhost:1313/tags/vpn07/</link>
+      <pubDate>Sun, 19 Jul 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/vpn07/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>代理工具</title>
+      <link>http://localhost:1313/tags/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sun, 19 Jul 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>机场流量</title>
+      <link>http://localhost:1313/tags/%E6%9C%BA%E5%9C%BA%E6%B5%81%E9%87%8F/</link>
+      <pubDate>Sun, 19 Jul 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E6%9C%BA%E5%9C%BA%E6%B5%81%E9%87%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>飞兔云</title>
+      <link>http://localhost:1313/tags/%E9%A3%9E%E5%85%94%E4%BA%91/</link>
+      <pubDate>Sun, 19 Jul 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E9%A3%9E%E5%85%94%E4%BA%91/</guid>
       <description></description>
     </item>
     <item>
       <title>Apple TV&#43;</title>
       <link>http://localhost:1313/tags/apple-tv&#43;/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/apple-tv&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clash Verge</title>
+      <link>http://localhost:1313/tags/clash-verge/</link>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/clash-verge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clash Verge Rev</title>
+      <link>http://localhost:1313/tags/clash-verge-rev/</link>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/clash-verge-rev/</guid>
       <description></description>
     </item>
     <item>
       <title>Disney&#43;</title>
       <link>http://localhost:1313/tags/disney&#43;/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/disney&#43;/</guid>
       <description></description>
     </item>
     <item>
       <title>HBO Max</title>
       <link>http://localhost:1313/tags/hbo-max/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/hbo-max/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netflix</title>
+      <link>http://localhost:1313/tags/netflix/</link>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/netflix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prime Video</title>
+      <link>http://localhost:1313/tags/prime-video/</link>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/prime-video/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/tags/windows/</link>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>流媒体账号</title>
+      <link>http://localhost:1313/tags/%E6%B5%81%E5%AA%92%E4%BD%93%E8%B4%A6%E5%8F%B7/</link>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B5%81%E5%AA%92%E4%BD%93%E8%B4%A6%E5%8F%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apple Tv</title>
+      <link>http://localhost:1313/tags/apple-tv/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
+      <guid>http://localhost:1313/tags/apple-tv/</guid>
       <description></description>
     </item>
     <item>
@@ -58,20 +142,6 @@
       <description></description>
     </item>
     <item>
-      <title>Netflix</title>
-      <link>http://localhost:1313/tags/netflix/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
-      <guid>http://localhost:1313/tags/netflix/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Prime Video</title>
-      <link>http://localhost:1313/tags/prime-video/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
-      <guid>http://localhost:1313/tags/prime-video/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Shadowrocket</title>
       <link>http://localhost:1313/tags/shadowrocket/</link>
       <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
@@ -83,20 +153,6 @@
       <link>http://localhost:1313/tags/%E5%B0%8F%E7%81%AB%E7%AE%AD/</link>
       <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
       <guid>http://localhost:1313/tags/%E5%B0%8F%E7%81%AB%E7%AE%AD/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>机场流量</title>
-      <link>http://localhost:1313/tags/%E6%9C%BA%E5%9C%BA%E6%B5%81%E9%87%8F/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E6%9C%BA%E5%9C%BA%E6%B5%81%E9%87%8F/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>流媒体账号</title>
-      <link>http://localhost:1313/tags/%E6%B5%81%E5%AA%92%E4%BD%93%E8%B4%A6%E5%8F%B7/</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:48 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E6%B5%81%E5%AA%92%E4%BD%93%E8%B4%A6%E5%8F%B7/</guid>
       <description></description>
     </item>
     <item>
@@ -121,17 +177,17 @@
       <description></description>
     </item>
     <item>
+      <title>安卓平板</title>
+      <link>http://localhost:1313/tags/%E5%AE%89%E5%8D%93%E5%B9%B3%E6%9D%BF/</link>
+      <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%AE%89%E5%8D%93%E5%B9%B3%E6%9D%BF/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>安卓手机</title>
       <link>http://localhost:1313/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</link>
       <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>KTM</title>
-      <link>http://localhost:1313/tags/ktm/</link>
-      <pubDate>Sun, 12 Jul 2026 15:18:18 +0800</pubDate>
-      <guid>http://localhost:1313/tags/ktm/</guid>
       <description></description>
     </item>
     <item>
@@ -142,38 +198,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tag</title>
-      <link>http://localhost:1313/tags/tag/</link>
-      <pubDate>Sun, 12 Jul 2026 15:18:18 +0800</pubDate>
-      <guid>http://localhost:1313/tags/tag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vpn07</title>
-      <link>http://localhost:1313/tags/vpn07/</link>
-      <pubDate>Sun, 12 Jul 2026 15:18:18 +0800</pubDate>
-      <guid>http://localhost:1313/tags/vpn07/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>代理工具</title>
-      <link>http://localhost:1313/tags/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Sun, 12 Jul 2026 15:18:18 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>订阅链接</title>
       <link>http://localhost:1313/tags/%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5/</link>
       <pubDate>Sun, 12 Jul 2026 15:18:18 +0800</pubDate>
       <guid>http://localhost:1313/tags/%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>飞兔云</title>
-      <link>http://localhost:1313/tags/%E9%A3%9E%E5%85%94%E4%BA%91/</link>
-      <pubDate>Sun, 12 Jul 2026 15:18:18 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E9%A3%9E%E5%85%94%E4%BA%91/</guid>
       <description></description>
     </item>
   </channel>

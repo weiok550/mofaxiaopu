@@ -6,8 +6,15 @@
     <description>Recent content in 代理工具 on 魔法小铺</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Jul 2026 15:18:18 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 10:30:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>机场服务推荐</title>
+      <link>http://localhost:1313/posts/proxy-provider-recommendations/</link>
+      <pubDate>Sun, 19 Jul 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/proxy-provider-recommendations/</guid>
+      <description>整理一些实际使用和筛选后体验还不错的机场服务，包括 TAG、vpn07、KTM、飞兔等。</description>
+    </item>
     <item>
       <title>KTM 机场流量购买教程：注册、购买套餐和获取订阅链接</title>
       <link>http://localhost:1313/posts/ktm/</link>

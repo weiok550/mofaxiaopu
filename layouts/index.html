@@ -1,15 +1,19 @@
 {{- define "main" }}
 
-{{- $iphone := site.GetPage "/posts/iphone-shadowrocket-netflix-appletv-primevideo-disney-hbomax" }}
-{{- $android := site.GetPage "/posts/android-clash_meta" }}
+{{- $iphone := site.GetPage "page" "posts/iphone-shadowrocket-netflix-appletv-primevideo-disney-hbomax.md" }}
+{{- $android := site.GetPage "page" "posts/android-clash_meta.md" }}
+{{- $windows := site.GetPage "page" "posts/windows-clash-verge-rev.md" }}
+{{- $providers := site.GetPage "page" "posts/proxy-provider-recommendations.md" }}
 {{- $featured := slice }}
 {{- with $iphone }}{{ $featured = $featured | append . }}{{ end }}
 {{- with $android }}{{ $featured = $featured | append . }}{{ end }}
+{{- with $windows }}{{ $featured = $featured | append . }}{{ end }}
+{{- with $providers }}{{ $featured = $featured | append . }}{{ end }}
 
 <section class="home-hero">
   <p class="home-eyebrow">流媒体观看教程</p>
   <p class="home-hero-desc">
-    专注分享 Netflix、Disney+、Apple TV+、Prime Video、HBO Max 等海外流媒体观看教程，覆盖苹果设备与安卓设备的网络工具配置、机场流量和账号选择建议。
+    专注分享 Netflix、Disney+、Apple TV+、Prime Video、HBO Max 等海外流媒体观看教程，覆盖苹果设备、安卓设备与 Windows 电脑的网络工具配置、机场流量和账号选择建议。
   </p>
   <div class="home-hero-actions">
     <a href="#featured-guides">查看教程</a>
@@ -28,6 +32,10 @@
       <div class="home-card-meta">
         {{- if in .File.Path "android" }}
         <span>Android / 安卓</span>
+        {{- else if in .File.Path "windows" }}
+        <span>Windows / 电脑</span>
+        {{- else if in .File.Path "proxy-provider" }}
+        <span>机场服务推荐</span>
         {{- else }}
         <span>iPhone / iPad / Apple TV</span>
         {{- end }}

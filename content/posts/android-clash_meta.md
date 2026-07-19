@@ -1,12 +1,12 @@
 +++
 date = '2026-07-12T18:00:00+08:00'
 draft = false
-title = '安卓手机怎么看 Netflix、Disney+、Apple TV+、Prime Video、HBO Max？Clash Meta for Android 教程'
+title = '安卓手机和平板怎么看 Netflix、Disney+、Apple TV+、Prime Video、HBO Max？Clash Meta for Android 教程'
 description = '安卓手机和平板怎么看 Netflix、Disney+、Apple TV+、Prime Video、HBO Max？本文介绍 Android 使用 Clash Meta for Android 配置机场订阅、选择节点、切换代理模式和购买流媒体账号的完整教程。'
 summary = '本文介绍安卓手机和平板使用 Clash Meta for Android 观看 Netflix、Disney+、Apple TV+、Prime Video、HBO Max 等海外流媒体的完整流程，包括下载应用、购买机场流量、导入订阅链接、启动代理服务和选择流媒体账号。'
-keywords = ['安卓手机怎么看 Netflix', 'Android 看 Netflix', '安卓看 Disney+', 'Clash Meta for Android 教程', 'Clash Meta 安卓教程', '安卓手机科学上网', '安卓配置机场订阅', 'Prime Video 怎么看', 'HBO Max 怎么看', '海外流媒体账号']
+keywords = ['安卓手机和平板怎么看 Netflix', 'Android 看 Netflix', '安卓看 Disney+', 'Clash Meta for Android 教程', 'Clash Meta 安卓教程', '安卓手机平板科学上网', '安卓配置机场订阅', 'Prime Video 怎么看', 'HBO Max 怎么看', '海外流媒体账号']
 categories = ['流媒体教程']
-tags = ['Android', '安卓手机', 'Clash Meta', 'Clash Meta for Android', 'Netflix', 'Disney+', 'Apple TV+', 'Prime Video', 'HBO Max', '机场流量', '流媒体账号']
+tags = ['Android', '安卓手机','安卓平板', 'Clash Meta', 'Clash Meta for Android', 'Netflix', 'Disney+', 'Apple TV+', 'Prime Video', 'HBO Max', '机场流量', '流媒体账号']
 +++
 
 安卓手机或平板想观看 Netflix、Disney+、Apple TV+、Prime Video、HBO Max 等海外流媒体，一般需要先准备代理工具和可用的机场订阅链接，再登录对应的流媒体账号。
