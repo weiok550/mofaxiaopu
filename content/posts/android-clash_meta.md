@@ -56,10 +56,10 @@ Clash Meta for Android 只是代理工具，想要正常使用，还需要购买
 
 特点：
 
-- 官网在大陆网络环境下通常可以直接打开，新手相对友好。
+- 官网在大陆网络环境下可以直接打开，新手相对友好。
 - 有性价比较高的中转流量套餐，流量给得比较多。
-- 比较适合对 IP 监测不是特别严格的服务，例如 Google、YouTube、Apple TV 等。
-- 节点数量一般，大约 30 个左右。
+- 比较适合对 IP 监测不是特别严格的流媒体或服务，例如推特、Google、YouTube、Apple TV（除了F1）等。
+- 节点数量一般，大约 16 个左右。
 
 ### 2.4 飞兔：<a href="/posts/feitu/" target="_blank" rel="noopener noreferrer" style="color:red">查看教程</a>
 
@@ -133,7 +133,7 @@ Clash Meta for Android 常见模式说明：
 
 相比单纯的闲鱼散户，如果卖家还有独立网站，通常会更靠谱一些。如果网站底部还有合法备案信息，可信度会更高。
 
-我近期使用下来比较推荐的网站是：<a href="https://www.mofapocket.com" target="_blank" rel="noopener noreferrer">魔法口袋</a>。
+我近期使用下来比较推荐的网站是：<a href="https://www.mofapocket.com" target="_blank" rel="noopener noreferrer" style="color:red;font-weight:bold">魔法口袋</a>。
 
 根据网站底部「关于我们」的介绍，它应该也是由踩过不少坑的前辈搭建的。支付方式支持支付宝和微信，购买后一般会自动发号。特殊情况下如果没有自动发号，也可以联系客服处理。
 

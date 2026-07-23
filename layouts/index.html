@@ -3,11 +3,13 @@
 {{- $iphone := site.GetPage "page" "posts/iphone-shadowrocket-netflix-appletv-primevideo-disney-hbomax.md" }}
 {{- $android := site.GetPage "page" "posts/android-clash_meta.md" }}
 {{- $windows := site.GetPage "page" "posts/windows-clash-verge-rev.md" }}
+{{- $appleTv := site.GetPage "page" "posts/AppleTv-shadowrocket-netflix-disney-prime-hbo.md" }}
 {{- $providers := site.GetPage "page" "posts/proxy-provider-recommendations.md" }}
 {{- $featured := slice }}
 {{- with $iphone }}{{ $featured = $featured | append . }}{{ end }}
 {{- with $android }}{{ $featured = $featured | append . }}{{ end }}
 {{- with $windows }}{{ $featured = $featured | append . }}{{ end }}
+{{- with $appleTv }}{{ $featured = $featured | append . }}{{ end }}
 {{- with $providers }}{{ $featured = $featured | append . }}{{ end }}
 
 <section class="home-hero">
@@ -36,6 +38,8 @@
         <span>Windows / 电脑</span>
         {{- else if in .File.Path "proxy-provider" }}
         <span>机场服务推荐</span>
+        {{- else if in .File.Path "AppleTv" }}
+        <span>Apple TV / 电视盒子</span>
         {{- else }}
         <span>iPhone / iPad / Apple TV</span>
         {{- end }}
