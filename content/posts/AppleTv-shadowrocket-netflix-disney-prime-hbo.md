@@ -2,7 +2,7 @@
 date = '2026-07-13T00:00:48+08:00'
 draft = false
 title = 'Apple Tv电视盒子怎么看 Netflix、Disney+、Apple TV+、Prime Video、HBO Max？Shadowrocket 小火箭教程'
-description = 'Apple Tv电视盒子怎么看 Netflix、Disney+、Apple TV+、Prime Video、HBO Max？本文以 iPhone 为例介绍Apple Tv电视盒子如何使用 Shadowrocket 小火箭配置代理节点、购买机场流量和流媒体账号的完整教程。其他苹果设备(iPad，Mac,iMac,Mac mini， Vision Pro)基本一样，可做参考。'
+description = 'Apple Tv电视盒子怎么看 Netflix、Disney+、Apple TV+、Prime Video、HBO Max？本文介绍Apple Tv电视盒子如何使用 Shadowrocket 小火箭配置代理节点、购买机场流量和流媒体账号的完整教程。其他苹果设备(iPad，Mac,iMac,Mac mini， Vision Pro)基本一样，可做参考。'
 summary = '本文讲解如何在Apple Tv电视盒子上使用 Shadowrocket 小火箭观看 Netflix、Disney+、Apple TV+、Prime Video、HBO Max 等海外流媒体的完整流程，包括下载安装小火箭、购买机场流量、配置节点和选择流媒体账号。其他苹果设备（iPad，Mac,niac,Mac mini, Vision Pro）同样适用'
 keywords = ['Apple Tv电视盒子怎么看 Netflix', 'iPhone 看 Netflix', 'iPhone 看 Disney+', 'Shadowrocket 教程', '小火箭教程', '小火箭添加节点', 'Apple TV+ 怎么看', 'Prime Video 怎么看', 'HBO Max 怎么看', '海外流媒体账号']
 categories = ['流媒体教程','Apple Tv电视盒子教程']
